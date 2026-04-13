@@ -56,13 +56,16 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialdeveloper01&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialdeveloper01&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=officialdeveloper01&theme=tokyonight" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialdeveloper01&theme=tokyonight" />
 </p>
 
 ---
